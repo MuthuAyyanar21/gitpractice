@@ -4,3 +4,4 @@ Testing Git
 Login Feature
 Search Feature
 Login Feature Created
+Release v1.0.0 Ready
